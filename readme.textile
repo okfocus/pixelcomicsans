@@ -1,0 +1,7 @@
+h1. Pixel Comic Sans
+
+p. Pixel Comic Sans is quite possibly the greatest font ever developed. OKFocus arduously used three programs in the creation of Pixel Comic Sans. First we started in Adobe Photoshop with Comic Sans MS at 18pt, rasterized it, then brought it into Adobe Illustrator, made it into a vector and finally brought that vector into Fontographer. We thought a lot about kerning and scale, the result is an exquisite Open Type Font that you can use for all your fantastic computer based projects. Enjoy!
+
+h2. Usage
+
+p. Check out @example.css@.
