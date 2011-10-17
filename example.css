@@ -1,0 +1,11 @@
+@font-face {
+	  font-family: 'PixelComicSans-Regular';
+	  src: url('type/PixelComicSans-Regular.eot?#iefix') format('embedded-opentype'), 
+	       url('type/PixelComicSans-Regular.woff') format('woff'), 
+	       url('type/PixelComicSans-Regular.ttf')  format('truetype'),
+	       url('type/PixelComicSans-Regular.svg#svgFontName') format('svg');
+    font-weight: normal;
+    font-style: normal;       
+}
+
+body { font-family: "PixelComicSans-Regular", sans-serif; }
